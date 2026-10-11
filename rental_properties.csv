@@ -1,0 +1,51 @@
+﻿ID,Locality,Type,Room,Rent,Deposit,Furnished,Occupants,Amenities,Dist,Rating,Date
+P001,Kothrud,PG,Single,8000,10000,Yes,1,"WiFi,Food",2.5,4.2,01-09-2026
+P002,Wakad,Hostel,Double,6000,5000,No,2,WiFi,3,3.9,02-09-2026
+P003,Baner,PG,Single,9000,12000,Yes,1,"WiFi,Food,AC",1.8,4.5,03-09-2026
+P004,Hinjewadi,Hostel,Triple,5500,4000,No,3,"WiFi,Parking",2.2,4,04-09-2026
+P005,Viman Nagar,PG,Double,7500,8000,Yes,2,"WiFi,Food",1.5,4.3,05-09-2026
+P006,Kharadi,PG,Single,8500,10000,Yes,1,"WiFi,AC",2,4.4,06-09-2026
+P007,Hadapsar,Hostel,Double,6000,5000,No,2,"WiFi,Food",3.5,3.8,07-09-2026
+P008,Anudh,PG,Single,9500,12000,Yes,1,"WiFi,Food,AC",1.2,4.6,08-09-2026
+P009,Kothrud,Hostel,Double,6500,6000,No,2,WiFi,2.8,4,09-09-2026
+P010,Wakad,PG,Single,7000,7000,Yes,3,"WiFi,Food",2.7,4.1,10-09-2026
+P011,Baner,Hostel,Double,6500,6000,No,2,"WiFi,Parking",2,4,11-09-2026
+P012,Hinjewadi,PG,Triple,7500,8000,Yes,1,"WiFi,Food",1.7,4.2,12-09-2026
+P013,Kharadi,Hostel,Double,5800,5000,No,3,WiFi,2.5,3.9,13-09-2026
+P014,Hadapsar,PG,Single,7000,7000,Yes,2,"WiFi,Food",2.8,4.1,14-09-2026
+P015,Anudh,Hostel,Triple,8000,9000,Yes,1,"WiFi,AC",1.4,4.4,15-09-2026
+P016,Viman Nagar,Hostel,Double,6000,5000,No,3,"WiFi,Food",2,4,16-09-2026
+P017,Kothrud,PG,Single,7200,8000,Yes,2,"WiFi,Food",2.3,4.3,17-09-2026
+P018,Wakad,Hostel,Triple,6500,6000,No,1,WiFi,2.9,3.9,18-09-2026
+P019,Baner,PG,Double,8500,10000,Yes,3,"WiFi,Food,AC",1.6,4.5,19-09-2026
+P020,Hinjewadi,Hostel,Single,5700,4500,No,2,"WiFi, Parking",2.6,3.8,20-09-2026
+P021,Kharadi,PG,Triple,8800,10000,Yes,1,"WiFi,AC",1.9,4.4,21-09-2026
+P022,Hadapsar,Hostel,Double,5500,4000,No,3,WiFi,3.2,3.7,22-09-2026
+P023,Anudh,PG,Double,9000,11000,Yes,2,"WiFi,Food",1.3,4.5,23-09-2026
+P024,Viman Nagar,PG,Single,8200,9500,Yes,1,"WiFi,Food,AC",1.7,4.3,24-09-2026
+P025,Kothrud,Hostel,Triple,5600,4500,No,3,"WiFi, Parking",2.9,3.8,25-09-2026
+P026,Wakad,PG,Double,7300,7500,Yes,2,"WiFi,Food",2.4,4.1,26-09-2026
+P027,Baner,Hostel,Single,7800,8500,Yes,1,"WiFi,AC",1.5,4.3,27-09-2026
+P028,Hinjewadi,PG,Double,6800,6500,No,2,"WiFi,Food",2.1,4,28-09-2026
+P029,Kharadi,Hostel,Single,7000,7000,Yes,1,"WiFi,AC",2.2,4.2,29-09-2026
+P030,Hadapsar,PG,Triple,6500,6000,No,3,"WiFi,Food",3,3.9,30-09-2026
+P031,Anudh,Hostel,Double,7200,75000,Yes,2,"WiFi,Food",1.6,4.2,01-10-2026
+P032,Viman Nagar,PG,Triple,7800,8500,Yes,3,"WiFi,Food,AC",1.9,4.4,02-10-2026
+P033,Kothrud,PG,Single,8300,10000,Yes,1,"WiFi,Food",2.4,4.1,03-10-2026
+P034,Wakad,Hostel,Double,6200,5500,No,2,"WiFi, Parking",2.8,3.8,04-10-2026
+P035,Baner,PG,Double,8700,10000,Yes,2,"WiFi,Food,AC",1.4,4.5,05-10-2026
+P036,Hinjewadi,Hostel,Single,6000,5000,No,1,WiFi,2.5,3.9,06-10-2026
+P037,Kharadi,PG,Triple,7600,8000,Yes,3,"WiFi,Food",2.1,4.2,07-10-2026
+P038,Hadapsar,Hostel,Double,5900,5000,No,2,"WiFi, Parking",3.1,3.8,08-10-2026
+P039,Anudh,PG,Single,9200,11000,Yes,1,"WiFi,Food,AC",1.1,4.6,09-10-2026
+P040,Viman Nagar,Hostel,Double,6800,6500,No,2,"WiFi,Food",1.8,4,10-10-2026
+P041,Kothrud,Hostel,Single,7000,7000,Yes,1,"WiFi,AC",2.6,4.1,11-10-2026
+P042,Wakad,PG,Single,7800,8500,Yes,1,"WiFi,Food",2.3,4.2,12-10-2026
+P043,Baner,Hostel,Triple,6200,5500,No,3,"WiFi, Parking",2,3.9,13-10-2026
+P044,Hinjewadi,PG,Double,7100,7000,Yes,2,"WiFi,Food",2.4,4.1,14-10-2026
+P045,Kharadi,Hostel,Double,6400,6000,No,2,WiFi,2.7,4,15-10-2026
+P046,Hadapsar,PG,Single,6800,7000,Yes,1,"WiFi,Food",3,4,16-10-2026
+P047,Anudh,Hostel,Triple,6500,6000,No,3,"WiFi, Parking",1.8,4.1,17-10-2026
+P048,Viman Nagar,PG,Double,7900,8500,Yes,2,"WiFi,Food,AC",1.6,4.3,18-10-2026
+P049,Kothrud,PG,Triple,7400,7500,Yes,3,"WiFi,Food",2.5,4.2,19-10-2026
+P050,Wakad,Hostel,Single,6100,5000,No,1,WiFi,2.9,3.9,20-10-2026
